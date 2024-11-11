@@ -14,21 +14,17 @@
 <p>Internships will be updated</p>
 </div>
 
-| Company          | Internship Name                 | Location       | Application Link                                                  |
-|------------------|---------------------------------|----------------|-------------------------------------------------------------------|
-| Dropbox          | Data Scientist Internship       | NYC            | [Dropbox](https://jobs.dropbox.com/listing/6329892)               |
-| SiriusXM         | Data Software Engineering       | NYC/Remote     | [SiriusXM](https://careers.siriusxm.com/careers/jobs/16201?lang=en-us)|
-| Two Sigma        |Quantitative Researcher          | NYC/In Person  | [Two Sigma](https://jobright.ai/jobs/info/66a3e896b020465e7d35d056?utm_campaign=1066&utm_source=git)|
-| Dexcom           |Intern I - Clinical Data Analyst | NYC/Remote     | [Dexcom](https://jobright.ai/jobs/info/671679a6c6cdef7325c4a821?utm_campaign=1066&utm_source=git)|
-| Moody's Corporation |Modeling & Quantitative Analytics Intern | NYC/In Person|[Moody's Corporation](https://jobright.ai/jobs/info/67166d132377d80e447f698b?utm_campaign=1066&utm_source=git)|
-| Dexcom           |Intern I - Clinical Data Analyst | NYC/Remote     | [Dexcom](https://jobright.ai/jobs/info/671679a6c6cdef7325c4a821?utm_campaign=1066&utm_source=git)|
-| Starr Insurance  | 2025 Starr Summer Intern - Enterprise Data (IT) | New York, NY | [Apply Here](https://jobright.ai/jobs/info/66fade06d910dcdc3e5624d5?utm_campaign=1066&utm_source=git)             |
-| Swiss Re   | Claims Intern      | Armonk, NY  | [Swiss Re](https://jobright.ai/jobs/info/671731181f9e8aefafdb94e3?utm_campaign=1066&utm_source=git)             |
-| IBM      | Data and AI Intern | New York, NY | [IBM](https://jobright.ai/jobs/info/671702b114b43e5ef6183e7f?utm_campaign=1066&utm_source=git)             |
-| DDN Storage  | Data Science Intern  | United States | [DDN Storage](https://jobright.ai/jobs/info/6716b064677eb8a710d71254?utm_campaign=1066&utm_source=git)             |
-
-
-
-
-
-
+| Company | Job Title | Location | Work Model | Date Posted |
+| ----- | --------- |  --------- | ---- | ------- |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data Analyst](https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2025 Summer]](https://jobright.ai/jobs/info/66a3e896b020465e7d35d056?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (SPRING) - Conway, AR](https://jobright.ai/jobs/info/671b129218c735e928824885?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
+| **[Intuit](https://www.intuit.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/672fb5cd5efe279dd5db45ef?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 09 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/672fb5cd5efe279dd5db4621?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 09 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Internship, Intelligence Solutions (Remote)](https://jobright.ai/jobs/info/6711646457fc70bb3c370304?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2025 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5705?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Data Analyst, Data Science and Visualization Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4102?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e90e971dd777880e8f40b?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e3930aee22e4ee0a70541?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Nov 08 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[CRM Risk Analytics - Data and Reporting Intern](https://jobright.ai/jobs/info/672e06000dbb59fa6c03dc24?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Enterprise Digital & Data Solutions Analytics Intern](https://jobright.ai/jobs/info/6711a0cb334d706f4f4065e2?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
