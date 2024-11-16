@@ -16,6 +16,7 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| Home Depot| **[Machine Learning Engineer]([https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git](https://lnkd.in/eYRnVpVr))** | United States | Remote | Nov 16
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data Analyst](https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2025 Summer]](https://jobright.ai/jobs/info/66a3e896b020465e7d35d056?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (SPRING) - Conway, AR](https://jobright.ai/jobs/info/671b129218c735e928824885?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
