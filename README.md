@@ -16,11 +16,11 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-|CVS Health| **[Machine Learning Engineering Graduate Internship ]([[https://jobs.cvshealth.com/us/en/job/R0409086/Data-Science-Undergraduate-Internship-Summer-2025](https://jobs.cvshealth.com/us/en/job/R0409097/Machine-Learning-Engineering-Graduate-Internship-Summer-2025)]))** | New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX. | Hybrid | Nov 16 Closes Jan 1 2025|
-|CVS Health| **[Data Analytics Engineering Graduate Internship - Summer 2025]([https://jobs.cvshealth.com/us/en/job/R0409093/Data-Analytics-Engineering-Graduate-Internship-Summer-2025]))** | New York, NY, Wellesley (Boston), MA, Hartford, CT, and Irving (Dallas), TX | Hybrid | Nov 16 Closes Jan 1 2025|
-|CVS Health| **[Data Science Graduate Internship - Summer 2025]([https://jobs.cvshealth.com/us/en/job/R0409081/Data-Science-Graduate-Internship-Summer-2025]))** | New York City, NY or Wellesley, MA.| Hybrid | Nov 16 Closes Jan 1 2025|
-|CVS Health| **[Data Science Undergraduate Internship - Summer 2025]([https://jobs.cvshealth.com/us/en/job/R0409086/Data-Science-Undergraduate-Internship-Summer-2025]))** | NY and MA | Hybrid | Nov 16 Closes Jan 1 2025|
-| Home Depot| **[Machine Learning Engineer]([https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git](https://lnkd.in/eYRnVpVr))** | United States | Remote | Nov 16|
+|[CVS Health]| [Machine Learning Engineering Graduate Internship ](https://jobs.cvshealth.com/us/en/job/R0409086/Data-Science-Undergraduate-Internship-Summer-2025) | New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX. | Hybrid | Nov 16 Closes Jan 1 2025|
+|CVS Health| **[Data Analytics Engineering Graduate Internship - Summer 2025](https://jobs.cvshealth.com/us/en/job/R0409093/Data-Analytics-Engineering-Graduate-Internship-Summer-2025)** | New York, NY, Wellesley (Boston), MA, Hartford, CT, and Irving (Dallas), TX | Hybrid | Nov 16 Closes Jan 1 2025|
+|CVS Health| **[Data Science Graduate Internship - Summer 2025](https://jobs.cvshealth.com/us/en/job/R0409081/Data-Science-Graduate-Internship-Summer-2025)** | New York City, NY or Wellesley, MA.| Hybrid | Nov 16 Closes Jan 1 2025|
+|CVS Health| **[Data Science Undergraduate Internship - Summer 2025](https://jobs.cvshealth.com/us/en/job/R0409086/Data-Science-Undergraduate-Internship-Summer-2025)** | NY and MA | Hybrid | Nov 16 Closes Jan 1 2025|
+| Home Depot| **[Machine Learning Engineer](https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 16|
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data Analyst](https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2025 Summer]](https://jobright.ai/jobs/info/66a3e896b020465e7d35d056?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (SPRING) - Conway, AR](https://jobright.ai/jobs/info/671b129218c735e928824885?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
