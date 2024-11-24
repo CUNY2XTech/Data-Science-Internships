@@ -16,7 +16,8 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-||||||
+|[Schonfeld]|[2025 Sector Data Analyst Summer Intern](https://www.skillsire.com/job/job-details/8c8fc73fc3443594cb44633d1eee8e7b)|NYC|On Site|11/22|
+|[Figma]|[Data Scientist - Intern (2025)](https://job-boards.greenhouse.io/figma/jobs/5227937004?gh_jid=5227937004&gh_src=28109e334us&source=LinkedIn)|NY|Remote|11/17|
 |[CVS Health]| [Machine Learning Engineering Graduate Internship ](https://jobs.cvshealth.com/us/en/job/R0409086/Data-Science-Undergraduate-Internship-Summer-2025) | New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX. | Hybrid | Nov 16 Closes Jan 1 2025|
 |CVS Health| **[Data Analytics Engineering Graduate Internship - Summer 2025](https://jobs.cvshealth.com/us/en/job/R0409093/Data-Analytics-Engineering-Graduate-Internship-Summer-2025)** | New York, NY, Wellesley (Boston), MA, Hartford, CT, and Irving (Dallas), TX | Hybrid | Nov 16 Closes Jan 1 2025|
 |CVS Health| **[Data Science Graduate Internship - Summer 2025](https://jobs.cvshealth.com/us/en/job/R0409081/Data-Science-Graduate-Internship-Summer-2025)** | New York City, NY or Wellesley, MA.| Hybrid | Nov 16 Closes Jan 1 2025|
