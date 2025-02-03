@@ -16,13 +16,9 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Digital Data & AI Internship](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e8c6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
-| **[Aetion](https://www.aetion.com)** | **[Analyst Intern (Epidemiology)](https://jobright.ai/jobs/info/678169aba3ba0f682bf30f4d?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Jan 10 |
+|**[Memorial Sloan Kettering](https://app.smartsheet.com/b/form/767c0868f4e94fb69af98ccdde53377f)**|**[Memorial Sloan Kettering](https://app.smartsheet.com/b/form/767c0868f4e94fb69af98ccdde53377f)**|NYC| In Person|2/7|
+| **[ITHAKA’s ]([https://www.microsoft.com](https://www.ithaka.org/job/4518771005/?gh_jid=4518771005))** | **[Intern, Data Intelligence](https://www.ithaka.org/job/4518771005/?gh_jid=4518771005)** | New York, NY | Remote|  |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e90e971dd777880e8f40b?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/6722b01b30048ae6e4c638a3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67633d472ff858cb93bcc88e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 10 |
-| **[The RealReal](http://www.therealreal.com)** | **[Analytics Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc36?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| **[Joinrs US](https://www.joinrs.com/en)** | **[[Full Remote] Junior Data Scientist & AI](https://jobright.ai/jobs/info/678101c2ca4fd5a784b63512?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 10 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/6780e2bafcb7f689ba01b10d?utm_campaign=1066&utm_source=git)** | Greater Jackson, MI Area | Remote | Jan 10 |
 
 
